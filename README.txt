@@ -1,8 +1,7 @@
 TWITTER SENTIMENT ANALYSIS
 
 # INFO
-The objective of this project is to develop a machine learning model that can predict tweet text class if there is negative or positive content. 
-Database consist 1,600,000 datas. Naive Bayess, Logistic Regression and Neural Network are used for accurately predicting type of text .
+The objective of this project is to develop a machine learning model that can predict tweet text class if there is negative or positive content. Database consist 1,600,000 datas. Naive Bayess, Logistic Regression and Neural Network are used for accurately predicting type of text .
 
 # TECHNOLOGIES
 * Python 3.11
